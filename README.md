@@ -1,1 +1,1 @@
-# -Ice-Cream-Sales-Analysis---Temperature-Weather
+# Ice-Cream Sales Analysis Temperature-Weather
